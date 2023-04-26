@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Merge pull request #22 from SkalskiP/patch-1
